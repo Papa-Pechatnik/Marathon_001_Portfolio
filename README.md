@@ -2,8 +2,10 @@
 #### Проєкт Резюме
 <p>Створення Веб-сторінка з резюме на марафоні з використанням HTML+CSS
 <a href="https://papa-pechatnik.github.io/Marathon_001_Portfolio/" target="_blank" title="Проєкт Резюме">Посилання</a></p>
-* Фіксована верстка за макетом
-* HTML5, CSS3
+<ul>
+  <li>Фіксована верстка за макетом</li>
+  <li>HTML5, CSS3</li>
+</ul>
 
 ### ENG
 #### Project Resume
